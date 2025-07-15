@@ -5,9 +5,6 @@
 
 The objective of this project is to perform an in-depth analysis of Zomato restaurant data to uncover patterns in customer behavior, restaurant performance, and market trends. This analysis aims to provide actionable insights that can help Zomato and restaurant owners make data-driven decisions.
 
-## Data Source
-
-The data for this project is sourced from [YouTube-Video-Notes Zomato Python Project](https://github.com/TheiScale/YouTube-Video-Notes/tree/main/Zomato_Python_Project).
 
 ## Data Overview
 
